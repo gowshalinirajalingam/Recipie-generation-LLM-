@@ -1,6 +1,6 @@
 # Recipie-generation-LLM-
 
-Run BE: uvicorn app:app --reload
+Run BE: uvicorn app:app --reload\n
 Run FE: streamlit run frontend.py
 
 
